@@ -1,0 +1,27 @@
+# Temporary Baseline Repo
+/temp-vault-stream/
+
+# Rust / Cargo
+target/
+**/*.rs.bk
+Cargo.lock
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+build/
+.env*.local
+.pnpm-debug.log*
+yarn-error.log*
+.npm/
+
+# IDEs
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
